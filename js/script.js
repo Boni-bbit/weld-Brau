@@ -124,8 +124,8 @@ const products = [
     name: "Adapters",
     image: "images/big-weld-on-and-bolt-on-adapters.jpg",
     details: [
-      "Type: Weld on ",
-      "Application: TLB buckets",
+      "J-Series Weld-on Adapters"
+      "For Tractor-loade-backhoe, Front End Loader & Excavators"
       "Size: J200, J350, J460"
     ]
   },
