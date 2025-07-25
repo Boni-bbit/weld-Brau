@@ -381,7 +381,7 @@ font-family: 'Oswald', sans-serif;
 }
 .card-link-grid {
   display: flex;
-  justify-content: center;
+  justify-content: start;
   gap: 40px;
   flex-wrap: nowrap; 
   overflow-x: auto; 
@@ -528,7 +528,7 @@ section#home {
 @media (max-width: 768px) {
   .card-link-grid {
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: start;
     overflow-x: visible;
   }
 
