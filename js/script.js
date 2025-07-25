@@ -124,18 +124,18 @@ const products = [
     name: "Adapters",
     image: "images/big-weld-on-and-bolt-on-adapters.jpg",
     details: [
-      "J-Series Weld-on Adapters"
-      "For Tractor-loade-backhoe, Front End Loader & Excavators"
-      "Size: J200, J350, J460"
+      "J-Series Weld-on Adapters",
+      "For Tractor-loade-backhoe, Front End Loader & Excavators",
+      "Size: J200, J350, J460",
     ]
   },
   {
     name: "Bucket Teeth",
     image: "images/big-cat-j-series-teeth.jpg",
     details: [
-      "Type: Rock Chisel",
-      "Use: Attached to adapters",
-      "Size: J200, J350, J460"
+      "We supply the worlds safest, most trusted Bucket Teeth guaranteed for long wear life",
+      "Long lasting, high quality Teeth",
+      "Size: J200, J350, J460",
     ]
   },
   {
