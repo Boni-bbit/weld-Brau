@@ -135,6 +135,9 @@ const products = [
     details: [
       "We supply the worlds safest, most trusted Bucket Teeth guaranteed for long wear life",
       "Long lasting, high quality Teeth",
+      "Huge range of Tooth styles for all digging application",
+      "Various Tooth systemes for all makes & models of excavatores & loaders",
+      "Available for machines from 1-140 ton size",
       "Size: J200, J350, J460",
     ]
   },
@@ -142,8 +145,11 @@ const products = [
     name: "Cutting Edge TLB",
     image: "images/4610e266-f50f-4010-b242-89f3233e579e.jpeg",
     details: [
-      "Use: TLB bucket edge replacement",
-      "Material: Heat-treated steel",
+      "Sharpen-up & cut through the clutter with Weld-Brau's Cutting Edge solutions. You'll get the fastest supply of high quality steel and longest wear life in Lesotho for a huge range of weld-in and Bolt-on Cutting Edges available in stockto suit all makes and models of Excavators, Dozers, Loaders & compactors.",
+      "Available to suit every make & model of machine",
+      "Hardest & toughest steel for the longest wear life",
+      "Weld-in & bolt on options",
+      "Free onsite measure ups & advice",
       "Sizes: Multiple widths available"
     ]
   },
