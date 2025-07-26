@@ -260,8 +260,8 @@ const products = [
       "Shape: Round or oval",
       "Material: Tungsten carbide"
      ]
-   },
-];
+   }
+ ];
 
 function renderProducts() {
   const container = document.querySelector(".product-grid");
