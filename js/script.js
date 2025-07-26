@@ -156,7 +156,7 @@ const products = [
     details: [
       "Selecting the right pins for your bucket can impact performance and longevity of your equipment.",
       "Ensures that your bucket is well secured and in reliable working condition.",
-      "Available for different makes and models
+      "Available for different makes and models",
       "Sizes: (80x550), (90x580)"
     ]
   },
