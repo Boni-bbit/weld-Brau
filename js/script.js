@@ -133,8 +133,6 @@ const products = [
     name: "Bucket Teeth",
     image: "images/big-cat-j-series-teeth.jpg",
     details: [
-      "We supply the worlds safest, most trusted Bucket Teeth guaranteed for long wear life",
-      "Long lasting, high quality Teeth",
       "Huge range of Tooth styles for all digging application",
       "Various Tooth systemes for all makes & models of excavatores & loaders",
       "Available for machines from 1-140 ton size",
@@ -145,7 +143,6 @@ const products = [
     name: "Cutting Edge TLB",
     image: "images/4610e266-f50f-4010-b242-89f3233e579e.jpeg",
     details: [
-      "Sharpen-up & cut through the clutter with Weld-Brau's Cutting Edge solutions. You'll get the fastest supply of high quality steel and longest wear life in Lesotho for a huge range of weld-in and Bolt-on Cutting Edges available in stockto suit all makes and models of Excavators, Dozers, Loaders & compactors.",
       "Available to suit every make & model of machine",
       "Hardest & toughest steel for the longest wear life",
       "Weld-in & bolt on options",
@@ -157,8 +154,9 @@ const products = [
     name: "Bucket Pins",
     image: "images/H6a4c630cee124c308dc997eddf2240c72.jpg_300x300.jpeg",
     details: [
-      "Use: Bucket linkage",
-      "Finish: Zinc-coated",
+      "Selecting the right pins for your bucket can impact performance and longevity of your equipment.",
+      "Ensures that your bucket is well secured and in reliable working condition.",
+      "Available for different makes and models
       "Sizes: (80x550), (90x580)"
     ]
   },
@@ -166,8 +164,8 @@ const products = [
     name: "Lip Shrouds",
     image: "images/61f0f57a-e853-4d76-8d35-cc9c9db17a94.jpeg",
     details: [
-      "Protection: Lip edge reinforcement",
-      "Weight: 7 kg",
+      "Protects the Cutting edge ensuring long service life for your equipment",
+      "Reduces costly downtime & prevent unexpected breakage",
       "Mount: Weld-on"
     ]
   },
@@ -175,17 +173,18 @@ const products = [
     name: "Heel Shrouds",
     image: "images/558_proclaws_heel_shroud_3.jpg",
     details: [
-      "Use: Heel protection",
-      "Weight: 10.2 kg",
-      "Mount: Weld on"
+      "Reduces damage taken by the bucket",
+      "Ensures longer service life of the bucket",
+      "Protection available in all sizes for bucket",
+      "Mount: Weld-on"
     ]
   },
   {
     name: "Pins and Retainers",
     image: "images/drawing_page-0001.jpg",
     details: [
-      "Use: Tooth locking system",
-      "Compatibility: CAT, Komatsu, etc.",
+      "Locks teeth to the adapters",
+      "Available in for all sizes of teeth and adapters",
       "Size: J200, J350, J460"
     ]
   },
@@ -194,8 +193,8 @@ const products = [
     image: "images/164a2d30-a057-41f9-b751-cf54b132d940.jpeg",
     details: [
       "Use: Bucket side protection",
-      "Mount: Weld-on",
-      "Shape: Curved or straight"
+      "Mount: Bolt on & Weld-on",
+      "available for all makes & models of machinery"
     ]
   },
   {
@@ -203,7 +202,7 @@ const products = [
     image: "images/ec10b5bf-852a-4e18-9ab0-e12bfbe28c4c.jpeg",
     details: [
       "Use: TLB bucket edge",
-      "Material: High-carbon steel",
+      "Placed on the ends of the cutting edge to ensure securty and increase digging efficiency",
       "Mount: Bolt-on"
     ]
   },
@@ -211,17 +210,17 @@ const products = [
     name: "Side Cutter",
     image: "images/51a9e7e1-5064-41ab-80ac-ef3c85e47f6a.jpeg",
     details: [
-      "Use: Excavator bucket edge",
-      "Design: Serrated or smooth",
-      "Sizes: Custom options"
+      " Excavator bucket edge",
+      "replaceable, bolt on to improve bucket performance while protacting sidebar",
+      "Suitable for most soil in avarage digging conditions"
     ]
   },
   {
     name: "Bucket Bosses",
     image: "images/a0686ec1-ed23-484b-9c62-c4dfce356f93.jpeg",
     details: [
-      "Use: Bucket pivot points",
-      "Material: Machined steel",
+      "Bucket pivot points",
+      "The mounting poin for the bucket pin, enabling the bucket to pivot and articulate on the arm",
       "Size: (80x140x80), (80x160x90), (90x160x90)"
     ]
   },
@@ -229,8 +228,9 @@ const products = [
     name: "Dipper Arm Boss",
     image: "images/e21111e9-0daa-4a66-bb45-cff21d9c364d.jpeg",
     details: [
-      "Use: Dipper arm reinforcement",
-      "Material: Forged steel",
+      "They connect the arm to the boom and the bucket",
+      "Allows pivotal movement",
+      "Enables the operator to control the bucket position for effician digging",
       "Size: (80x180x310)"
     ]
   },
@@ -238,8 +238,8 @@ const products = [
     name: "Polyshims",
     image: "images/shims.jpg",
     details: [
-      "Use: Wear compensation",
-      "Material: Polyurethane",
+      "Provides consistant spacing",
+      "Absorbes friction between parts by improving grease retention and reduce wear in machinery components",
       "Sizes: (80x5x140), (80x5x160), (90x5x160)"
     ]
   },
@@ -259,26 +259,8 @@ const products = [
       "Use: Spot reinforcement",
       "Shape: Round or oval",
       "Material: Tungsten carbide"
-    ]
-  },
-  {
-    name: "Cutting Edge Half-Arrow",
-    image: "images/Half-Arrows-1.jpg",
-    details: [
-      "Use: Excavator & TLB bucket edge",
-      "Design: Half-arrow profile",
-      "Durability: High abrasion resistance"
-    ]
-  },
-  {
-    name: "Cutting Edge Excavator",
-    image: "images/images (1).jfif",
-    details: [
-      "Use: Excavator bucket edge",
-      "Material: Hardened steel",
-      "Sizes: Custom lengths"
-    ]
-  }
+     ]
+   },
 ];
 
 function renderProducts() {
