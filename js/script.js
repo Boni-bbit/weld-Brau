@@ -126,7 +126,7 @@ const products = [
     details: [
       "Various Weld-on Adapters",
       "For Tractor-loade-backhoe, Front End Loader & Excavators",
-      "Size: J200, J350, J460, J500, J600, J700, J800",
+      "Size: J200, J350, J460, J550, J600, J700, J800",
     ]
   },
   {
@@ -136,7 +136,7 @@ const products = [
       "Huge range of Tooth styles for all digging application",
       "Various Tooth systemes for all makes & models of excavatores & loaders",
       "Available for machines from 1-140 ton size",
-      "Size: J200, J350, J460, J500, J600, J700, J800",
+      "Size: J200, J350, J460, J550, J600, J700, J800",
     ]
   },
   {
@@ -185,7 +185,7 @@ const products = [
     details: [
       "Locks teeth to the adapters",
       "Available in for all sizes of teeth and adapters",
-      "Size: J200, J350, J460, J500, J600, J700, J800"
+      "Size: J200, J350, J460, J550, J600, J700, J800"
     ]
   },
   {
