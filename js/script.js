@@ -344,5 +344,10 @@ document.querySelectorAll('.dropdown-menu li a').forEach(link => {
   });
 });
 
+  if (window.top !== window.self) {
+    window.top.location = window.self.location;
+  }
+});
+
 
 
