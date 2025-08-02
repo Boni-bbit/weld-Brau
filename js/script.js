@@ -122,7 +122,7 @@ function showWorkshopGallery(type) {
 const products = [
   {
     name: "Adapters",
-    image: "images/big-weld-on-and-bolt-on-adapters.jpg",
+    image: "images/adapters.png",
     details: [
       "Various Weld-on Adapters",
       "For Tractor-loade-backhoe, Front End Loader & Excavators",
@@ -131,7 +131,7 @@ const products = [
   },
   {
     name: "Bucket Teeth",
-    image: "images/big-cat-j-series-teeth.jpg",
+    image: "images/teeths.png",
     details: [
       "Huge range of Tooth styles for all digging application",
       "Various Tooth systemes for all makes & models of excavatores & loaders",
@@ -141,7 +141,7 @@ const products = [
   },
   {
     name: "Cutting Edge TLB",
-    image: "images/4610e266-f50f-4010-b242-89f3233e579e.jpeg",
+    image: "images/cutting edge.png",
     details: [
       "Available to suit every make & model of machine",
       "Hardest & toughest steel for the longest wear life",
@@ -152,7 +152,7 @@ const products = [
   },
   {
     name: "Bucket Pins",
-    image: "images/H6a4c630cee124c308dc997eddf2240c72.jpg_300x300.jpeg",
+    image: "images/Copilot_20250802_113429.png",
     details: [
       "Selecting the right pins for your bucket can impact performance and longevity of your equipment.",
       "Ensures that your bucket is well secured and in reliable working condition.",
@@ -162,7 +162,7 @@ const products = [
   },
   {
     name: "Lip Shrouds",
-    image: "images/61f0f57a-e853-4d76-8d35-cc9c9db17a94.jpeg",
+    image: "images/lip shroud.png",
     details: [
       "Protects the Cutting edge ensuring long service life for your equipment",
       "Reduces costly downtime & prevent unexpected breakage",
@@ -171,7 +171,7 @@ const products = [
   },
   {
     name: "Heel Shrouds",
-    image: "images/558_proclaws_heel_shroud_3.jpg",
+    image: "images/heel  shroud.png",
     details: [
       "Reduces damage taken by the bucket",
       "Ensures longer service life of the bucket",
@@ -181,7 +181,7 @@ const products = [
   },
   {
     name: "Pins and Retainers",
-    image: "images/drawing_page-0001.jpg",
+    image: "images/pins & retainers.png",
     details: [
       "Locks teeth to the adapters",
       "Available in for all sizes of teeth and adapters",
@@ -190,7 +190,7 @@ const products = [
   },
   {
     name: "Side Bar Protector",
-    image: "images/164a2d30-a057-41f9-b751-cf54b132d940.jpeg",
+    image: "images/Side bar protector.png",
     details: [
       "Use: Bucket side protection",
       "Mount: Bolt on & Weld-on",
@@ -199,7 +199,7 @@ const products = [
   },
   {
     name: "Side Cutter TLB",
-    image: "images/ec10b5bf-852a-4e18-9ab0-e12bfbe28c4c.jpeg",
+    image: "images/tlb side cuttet.png",
     details: [
       "Use: TLB bucket edge",
       "Placed on the ends of the cutting edge to ensure securty and increase digging efficiency",
@@ -208,7 +208,7 @@ const products = [
   },
   {
     name: "Side Cutter",
-    image: "images/51a9e7e1-5064-41ab-80ac-ef3c85e47f6a.jpeg",
+    image: "images/side cutter.png",
     details: [
       " Excavator bucket edge",
       "replaceable, bolt on to improve bucket performance while protacting sidebar",
@@ -217,7 +217,7 @@ const products = [
   },
   {
     name: "Bucket Bosses",
-    image: "images/a0686ec1-ed23-484b-9c62-c4dfce356f93.jpeg",
+    image: "images/bucket bosses.png",
     details: [
       "Bucket pivot points",
       "The mounting poin for the bucket pin, enabling the bucket to pivot and articulate on the arm",
@@ -226,7 +226,7 @@ const products = [
   },
   {
     name: "Dipper Arm Boss",
-    image: "images/e21111e9-0daa-4a66-bb45-cff21d9c364d.jpeg",
+    image: "images/dipper arm.png",
     details: [
       "They connect the arm to the boom and the bucket",
       "Allows pivotal movement",
@@ -236,7 +236,7 @@ const products = [
   },
   {
     name: "Polyshims",
-    image: "images/shims.jpg",
+    image: "images/shims.png",
     details: [
       "Provides consistant spacing",
       "Absorbes friction between parts by improving grease retention and reduce wear in machinery components",
@@ -245,7 +245,7 @@ const products = [
   },
   {
     name: "Wear Strips",
-    image: "images/ware strip.jpeg",
+    image: "images/wear strip.png",
     details: [
       "Use: Surface protection",
       "Material: Chromium carbide",
@@ -254,7 +254,7 @@ const products = [
   },
   {
     name: "Wear Buttons",
-    image: "images/buttond.jpeg",
+    image: "images/wear buttons.png",
     details: [
       "Use: Spot reinforcement",
       "Shape: Round or oval",
