@@ -343,6 +343,8 @@ document.querySelectorAll('.dropdown-menu li a').forEach(link => {
     navMenu.classList.remove('show');
   });
 });
+
+
 let lastScrollTop = 0;
 const header = document.querySelector("header");
 
