@@ -8,7 +8,7 @@
 }
 
     body {
-  padding-top: 100px; /* adjust based on header height */
+  padding-top: 0px; /* adjust based on header height */
 }
 
     header, footer {
